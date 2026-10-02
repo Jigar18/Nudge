@@ -1,0 +1,16 @@
+# Gradle and build output
+.gradle/
+.kotlin/
+build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# Signing key and its passwords
+*.jks
+*.keystore
+keystore.properties
